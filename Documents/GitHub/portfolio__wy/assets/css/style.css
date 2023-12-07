@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/* setting */
+@import "./setting/font.css";
+@import "./setting/reset.css";
+@import "./setting/common.css";
+
+/* page */
+@import "./page/main.css"
