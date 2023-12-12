@@ -83,3 +83,7 @@ runSplit();
 3. runSplit() 함수를 정의합니다. 이 함수 내에서 typeSplit 변수는 .highlighted-text 클래스를 기준으로 텍스트를 줄, 단어, 문자로 분할합니다. lineSplit 변수는 "[split-lines]" 태그를 기준으로 텍스트를 줄 단위로 분할합니다.
 
 - 따라서, 이 코드는 주어진 HTML 문서에서 특정 태그나 클래스를 기준으로 텍스트를 분할하는 기능을 구현하는 것을 목적으로 합니다.
+
+
+
+git push --force origin main
