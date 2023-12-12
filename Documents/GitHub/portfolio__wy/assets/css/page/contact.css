@@ -1,0 +1,33 @@
+#contactSection {
+    display: none;
+}
+
+.contact-sec01 {
+    padding: 1rem;
+}
+
+.contact-sec02 {
+    padding: 1rem;
+}
+
+.contact-text {
+    font-family: 'Abel';
+    font-weight: 800;
+    font-size: 5rem;
+    line-height: 1;
+}
+
+.contact-sec02 h2 {
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.contact-list {}
+
+.contact-list {}
+
+.contact-list li {}
+
+.contact-list>li>a {
+    font-size: 3.5rem !important;
+}

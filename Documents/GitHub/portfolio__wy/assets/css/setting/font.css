@@ -73,3 +73,31 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/gmarket/GmarketSansBold.ttf') format("truetype");
     font-display: swap;
 }
+
+
+@font-face {
+    font-family: 'LINESeedKR-Bd';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/LINESeedKR-Bd.woff2') format('woff2'),
+        url('../fonts/LINESeedKR-Bd.woff') format('woff'), ;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LINESeedKR-Rg';
+    font-weight: 500;
+    font-style: normal;
+    src: url('../fonts/LINESeedKR-Rg.woff2') format('woff2'),
+        url('../fonts/LINESeedKR-Rg.woff') format('woff'), ;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LINESeedKR-Th';
+    font-weight: 300;
+    font-style: normal;
+    src: url('../fonts/LINESeedKR-Th.woff2') format('woff2'),
+        url('../fonts/LINESeedKR-Th.woff') format('woff'), ;
+    font-display: swap;
+}

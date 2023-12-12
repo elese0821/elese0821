@@ -6,4 +6,6 @@
 @import "./setting/common.css";
 
 /* page */
-@import "./page/main.css"
+@import "./page/main.css";
+@import "./page/about.css";
+@import "./page/contact.css";

@@ -1,7 +1,14 @@
+body {}
+
+#mainbg {
+    /* background: linear-gradient(to right, #fcb045, #fd1d73, #833ab4); */
+    /* background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); */
+    background: linear-gradient(to right, #001b3a, #6100fd, #ff821c);
+}
+
 body {
-    background: linear-gradient(to right, #ff9c1a, #1e92ff, #00be50);
-    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-    background: linear-gradient(to right, #fcb045, #fd1d73, #833ab4);
+    width: 100%;
+    height: 100vh;
 }
 
 #mainSection {
@@ -12,9 +19,10 @@ body {
     font-weight: bold;
     font-family: 'Bebas Neue';
     color: #fff;
+    display: none;
 }
 
-#mainSection canvas {
+#mainbg canvas {
     position: absolute;
     left: 0;
     top: 0;
@@ -206,7 +214,7 @@ body {
     position: relative;
     letter-spacing: -0.2vw;
     line-height: 1;
-    font-size: 20vw;
+    font-size: 18vw;
 }
 
 /*  */
@@ -226,7 +234,7 @@ body {
     white-space: nowrap;
     flex: none;
     overflow: hidden;
-    font-size: 10vw;
+    font-size: 8vw;
 }
 
 .loadingText {
@@ -250,6 +258,59 @@ body {
 @media (max-width:1000px) {
     .mainText {
         font-size: 24vw;
+    }
+
+    .main__gird {
+        display: grid;
+        width: 100%;
+        height: 100vh;
+        padding: 0.5rem;
+        z-index: 1500;
+        grid-template-areas:
+            "grid1 grid1 grid2"
+            "grid1 grid1 grid5"
+            "grid3 grid4 grid5"
+            "grid3 grid4 grid7"
+            "grid6 grid6 grid7"
+            "grid6 grid6 grid7"
+            "grid6 grid6 grid7"
+            "grid6 grid6 grid7"
+            "grid9 grid8 grid8"
+            "grid9 grid8 grid8";
+        grid-template-rows: repeat(10, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 0.5rem;
+        position: relative;
+    }
+
+}
+
+@media (max-width:500px) {
+    .mainText {
+        font-size: 24vw;
+    }
+
+    .main__gird {
+        display: grid;
+        width: 100%;
+        height: 100vh;
+        padding: 0.5rem;
+        z-index: 1500;
+        grid-template-areas:
+            "grid1 grid2"
+            "grid1 grid2"
+            "grid3 grid4"
+            "grid3 grid4"
+            "grid5 grid5"
+            "grid5 grid5"
+            "grid6 grid7"
+            "grid9 grid7"
+            "grid9 grid8"
+            "grid9 grid8";
+        grid-template-rows: repeat(10, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 0.5rem;
+        position: relative;
     }
 
 }

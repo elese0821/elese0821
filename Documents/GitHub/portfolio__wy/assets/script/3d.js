@@ -136,7 +136,7 @@ const shaders = {
     `
 }
 
-const container = document.getElementById("mainSection")
+const container = document.getElementById("mainbg")
 
 let width = container.offsetWidth,
     height = container.offsetHeight,
