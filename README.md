@@ -2,6 +2,8 @@
 
 ### 안녕하세요! 프론트 개발자 이원영입니다.
 
+_The machine is not at fault_
+
 (목표는 풀스택!)
 
 ## PROJECT
@@ -45,4 +47,3 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
-_The machine is not at fault_
