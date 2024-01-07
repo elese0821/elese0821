@@ -2,7 +2,7 @@
 
 ### 안녕하세요! 프론트 개발자 이원영입니다.
 
-_The machine is not at fault_
+_The machine is not at fault😎_
 
 (목표는 풀스택!)
 
