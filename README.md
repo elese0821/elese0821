@@ -5,7 +5,20 @@
 (목표는 풀스택!)
 
 ## PROJECT
-
+- REACT
+[미리보기](https://github.com/elese0821/movie-project)
+- VUE
+[미리보기](https://github.com/elese0821/movie-project)
+- JAVASCRIPT
+[미리보기](https://github.com/elese0821/movie-project)
+- PHP
+[미리보기](https://github.com/elese0821/movie-project) 
+- QUIZ
+[미리보기](https://github.com/elese0821/movie-project)
+- PETPAR
+[미리보기](https://github.com/elese0821/movie-project)
+- BLOG
+[미리보기](https://github.com/elese0821/movie-project)
 ## SKILLS
 #### 프로그래밍 언어 및 마크업 언어<br />
 <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
