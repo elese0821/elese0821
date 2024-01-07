@@ -6,19 +6,19 @@
 
 ## PROJECT
 - REACT
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 - VUE
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
-- JAVASCRIPT
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
-- PHP
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 - QUIZ
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 - PETPAR
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 - BLOG
-<a href="https://github.com/elese0821/movie-project" target="_blank">미리보기</a>
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
+- JAVASCRIPT
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
+- PHP
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 
 
 ## SKILLS
