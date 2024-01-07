@@ -5,19 +5,19 @@
 (목표는 풀스택!)
 
 ## PROJECT
-- REACT
+- REACT 유튜브사이트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- VUE
+- VUE 영화정보 사이트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- QUIZ
+- QUIZ 바닐라 자바스크립트 퀴즈게임
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- PETPAR
+- PETPAR NODE.JS, REACT로 만든 풀스택 팀프로젝트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- BLOG
+- BLOG NEXT.JS를 사용해 만든 SIMPLE BLOG
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- JAVASCRIPT
+- JAVASCRIPT CSS속성 검색하기 사이트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- PHP
+- PHP PHP 팀프로젝트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 
 
