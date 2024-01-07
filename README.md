@@ -5,19 +5,19 @@
 (목표는 풀스택!)
 
 ## PROJECT
-- REACT
+- JAVASCRIPT  
+[미리보기](https://github.com/elese0821/movie-project)
+- QUIZ  
+[미리보기](https://github.com/elese0821/movie-project)
+- PHP   
+[미리보기](https://github.com/elese0821/movie-project) 
+- REACT  
 [미리보기](https://github.com/elese0821/movie-project)
 - VUE
 [미리보기](https://github.com/elese0821/movie-project)
-- JAVASCRIPT
+- PETPAR  
 [미리보기](https://github.com/elese0821/movie-project)
-- PHP
-[미리보기](https://github.com/elese0821/movie-project) 
-- QUIZ
-[미리보기](https://github.com/elese0821/movie-project)
-- PETPAR
-[미리보기](https://github.com/elese0821/movie-project)
-- BLOG
+- BLOG  
 [미리보기](https://github.com/elese0821/movie-project)
 ## SKILLS
 #### 프로그래밍 언어 및 마크업 언어<br />
