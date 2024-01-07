@@ -8,19 +8,19 @@ _The machine is not at fault_
 ## PORTFOLIO
 <a href="https://github.com/elese0821/WNYG_PORT">바로가기</a>
 ## PROJECT
-- REACT 유튜브사이트
+- `REACT` 유튜브사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
-- VUE 영화정보 사이트
+- `VUE.js` 영화정보 사이트
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- QUIZ 바닐라 자바스크립트 퀴즈게임
+- `QUIZ` 바닐라 자바스크립트 퀴즈게임
 <a href="https://github.com/elese0821/javascript_quiz" target="_blank">GITHUB SITE</a>
-- PETPAR NODE.JS, REACT로 만든 풀스택 팀프로젝트
+- `PETPAR` NODE.JS, REACT로 만든 풀스택 팀프로젝트
 <a href="https://github.com/chfhr22/petpar" target="_blank">GITHUB SITE</a>
-- BLOG NEXT.JS를 사용해 만든 SIMPLE BLOG
+- `BLOG` NEXT.JS를 사용해 만든 SIMPLE BLOG
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- JAVASCRIPT CSS속성 검색하기 사이트
+- `JAVASCRIPT` CSS속성 검색하기 사이트
 <a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
-- PHP PHP 팀프로젝트
+- `뇌섹남녀` PHP 팀프로젝트
 <a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
 
 
