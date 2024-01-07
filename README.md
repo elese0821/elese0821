@@ -6,7 +6,7 @@ _The machine is not at fault_
 
 (목표는 풀스택!)
 ## PORTFOLIO
-<a href='https://wonyoung-portfolio-4c189fd6f075.herokuapp.com/'>바로가기</a>
+<a href="https://github.com/elese0821/WNYG-PORT">바로가기</a>
 ## PROJECT
 - REACT 유튜브사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
