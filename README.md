@@ -20,7 +20,7 @@ _The machine is not at fault_
 <a href="https://github.com/elese0821/next-blog" target="_blank">GITHUB SITE</a>
 - `JAVASCRIPT` CSS속성 검색하기 사이트
 <a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
-- `뇌섹남녀` PHP 팀프로젝트 ()
+- `뇌섹남녀` PHP 팀프로젝트
 <a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
 
 
