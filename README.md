@@ -18,6 +18,8 @@ _The machine is not at fault_
 <a href="https://github.com/chfhr22/petpar" target="_blank">GITHUB SITE</a>
 - `BLOG` NEXT.JS를 사용해 만든 SIMPLE BLOG ()
 <a href="https://github.com/elese0821/next-blog" target="_blank">GITHUB SITE</a>
+- `BLOG` REACT 프레임 워크를 이용한 SIMPLE BLOG ()
+<a href="https://github.com/elese0821/react-blog" target="_blank">GITHUB SITE</a>
 - `JAVASCRIPT` CSS속성 검색하기 사이트
 <a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
 - `뇌섹남녀` PHP 팀프로젝트
