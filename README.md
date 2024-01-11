@@ -1,13 +1,13 @@
-# WELCOME TO MY HOUSE<img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=82a1493b46gqhff3pfz6g198ninfz0d73ywhq9v09ljhpnix&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="80px" height="40px" title="Github_Logo" />
+# WELCOME!!<img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=82a1493b46gqhff3pfz6g198ninfz0d73ywhq9v09ljhpnix&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="80px" height="40px" title="Github_Logo" />
 
 ### 😎프론트 개발자 이원영입니다.
 
 _The machine is not at fault_
 
 (목표는 풀스택!)
-## PORTFOLIO
-<a href="https://github.com/elese0821/WNYG_PORT">바로가기</a>
+
 ## PROJECT
+- `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
 - `REACT` 유튜브사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
 - `VUE.js` 영화정보 사이트
