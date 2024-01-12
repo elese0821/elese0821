@@ -14,11 +14,11 @@ _The machine is not at fault_
 <a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
 - `QUIZ` 바닐라 자바스크립트 퀴즈게임
 <a href="https://github.com/elese0821/javascript_quiz" target="_blank">GITHUB SITE</a>
-- `PETPAR` NODE.JS, REACT로 만든 풀스택 팀프로젝트 (작업중)
+- `PETPAR` NODE.JS, REACT로 만든 풀스택 팀프로젝트 (ing)
 <a href="https://github.com/chfhr22/petpar" target="_blank">GITHUB SITE</a>
-- `PROMPT` NEXT.JS를 사용해 만든 프롬프트사이트 (작업중)
+- `PROMPT` NEXT.JS를 사용해 만든 프롬프트사이트 (ing)
 <a href="https://github.com/elese0821/next-blog" target="_blank">GITHUB SITE</a>
-- `SIMPLEBLOG` REACT 프레임 워크를 이용한 SIMPLE BLOG (작업중)
+- `SIMPLEBLOG` REACT 프레임 워크를 이용한 SIMPLE BLOG (ing)
 <a href="https://github.com/elese0821/react-blog" target="_blank">GITHUB SITE</a>
 - `JAVASCRIPT` CSS속성 검색하기 사이트
 <a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
