@@ -9,7 +9,7 @@ _The machine is not at fault_
 ## PROJECT
 - `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
 ## GITHUB BLOG
-- `github blog` <a href="https://github.com/elese0821/elese0821.github.io">저의 블로그입니다</a>
+- `github blog` <a href="https://elese0821.github.io/"> 저의 블로그 입니다😏</a>
 - `REACT` 유튜브 사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
 - `VUE.js` 영화정보 사이트
