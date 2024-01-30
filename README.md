@@ -4,7 +4,6 @@
 ## PROJECT
 - `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
 ## GITHUB BLOG
-- `github blog` <a href="https://elese0821.github.io/"> 저의 블로그 입니다😏</a>
 - `REACT` 유튜브 사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
 - `VUE.js` 영화정보 사이트
@@ -22,6 +21,8 @@
 - `뇌섹남녀` PHP 팀프로젝트
 <a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
 
+- `github blog` <a href="https://elese0821.github.io/"> 저의 블로그 입니다.</a>
+- (https://velog.io/@iwonyoung0821/posts) 벨로그 주소
 
 ## SKILLS
 #### 프로그래밍 언어 및 마크업 언어<br />
