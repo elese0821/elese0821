@@ -1,5 +1,6 @@
 # WELCOME!!<img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=82a1493b46gqhff3pfz6g198ninfz0d73ywhq9v09ljhpnix&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="80px" height="40px" title="Github_Logo" />
 
+`VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그
 
 ## PROJECT
 - `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
@@ -21,8 +22,8 @@
 - `뇌섹남녀` PHP 팀프로젝트
 <a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
 
-- `github blog` <a href="https://elese0821.github.io/"> 저의 블로그 입니다.</a>
-- (https://velog.io/@iwonyoung0821/posts) 벨로그 주소
+- `github blog` <a href="https://elese0821.github.io/"> 블로그 입니다.</a>
+- `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그 주소
 
 ## SKILLS
 #### 프로그래밍 언어 및 마크업 언어<br />
