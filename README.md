@@ -2,7 +2,7 @@
 
 - `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그
 
-- <a href="https://github.com/elese0821/my-components">최근작업</a>
+- `REACT.JS 컴포넌트 만드는중` <a href="https://github.com/elese0821/my-components">최근작업</a>
 
 - `github blog` <a href="https://elese0821.github.io/"> 블로그 </a>
 
