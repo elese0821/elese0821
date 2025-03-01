@@ -12,28 +12,9 @@
 
 
 
-- `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
-- `REACT` 유튜브 사이트
-<a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
-- `VUE.js` 영화정보 사이트
-<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
-- `QUIZ` js 퀴즈게임
-<a href="https://github.com/elese0821/javascript_quiz" target="_blank">GITHUB SITE</a>
-- `PETPAR` NODE.JS, REACT로 만든 풀스택 팀프로젝트 (ing)
-<a href="https://github.com/chfhr22/petpar" target="_blank">GITHUB SITE</a>
-- `PROMPT` NEXT.JS를 사용해 만든 프롬프트사이트 (ing)
-<a href="https://github.com/elese0821/next-blog" target="_blank">GITHUB SITE</a>
-- `SIMPLEBLOG` NEXT.js 
-<a href="https://github.com/elese0821/Blog-next.js" target="_blank">GITHUB SITE</a>
-- `JAVASCRIPT` CSS속성 검색하기 사이트
-<a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
-- `뇌섹남녀` PHP 팀프로젝트
-<a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
-
 - `github blog` <a href="https://elese0821.github.io/"> 블로그 입니다.</a>
 - `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그 주소
 
-## SKILLS
 #### 프로그래밍 언어 및 마크업 언어<br />
 <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
@@ -53,6 +34,26 @@
 <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### 
+
+
+- `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
+- `REACT` 유튜브 사이트
+<a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
+- `VUE.js` 영화정보 사이트
+<a href="https://github.com/elese0821/movie-project" target="_blank">GITHUB SITE</a>
+- `QUIZ` js 퀴즈게임
+<a href="https://github.com/elese0821/javascript_quiz" target="_blank">GITHUB SITE</a>
+- `PETPAR` NODE.JS, REACT로 만든 풀스택 팀프로젝트 (ing)
+<a href="https://github.com/chfhr22/petpar" target="_blank">GITHUB SITE</a>
+- `PROMPT` NEXT.JS를 사용해 만든 프롬프트사이트 (ing)
+<a href="https://github.com/elese0821/next-blog" target="_blank">GITHUB SITE</a>
+- `SIMPLEBLOG` NEXT.js 
+<a href="https://github.com/elese0821/Blog-next.js" target="_blank">GITHUB SITE</a>
+- `JAVASCRIPT` CSS속성 검색하기 사이트
+<a href="https://github.com/elese0821/javascript_css" target="_blank">GITHUB SITE</a>
+- `뇌섹남녀` PHP 팀프로젝트
+<a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
+
 
 ## CONTACT
 <a href="mailto:elese0821@gmail.com">
