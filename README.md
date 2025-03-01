@@ -1,19 +1,10 @@
 # <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=82a1493b46gqhff3pfz6g198ninfz0d73ywhq9v09ljhpnix&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="80px" height="40px" title="Github_Logo" />
 
-`VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그
+- `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그
 
 - <a href="https://github.com/elese0821/my-components">최근작업</a>
 
-
-
-
-
-
-
-
-
-- `github blog` <a href="https://elese0821.github.io/"> 블로그 입니다.</a>
-- `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그 주소
+- `github blog` <a href="https://elese0821.github.io/"> 블로그 </a>
 
 #### 프로그래밍 언어 및 마크업 언어<br />
 <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
