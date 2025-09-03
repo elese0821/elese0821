@@ -1,31 +1,32 @@
-# <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=82a1493b46gqhff3pfz6g198ninfz0d73ywhq9v09ljhpnix&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="80px" height="40px" title="Github_Logo" />
+# 소개
 
-- `VELOG` <a href="https://velog.io/@iwonyoung0821/posts">벨로그
+- <a href="https://velog.io/@iwonyoung0821/posts"> 블로그
 
-- `REACT.JS 컴포넌트 만드는중` <a href="https://github.com/elese0821/my-components">최근작업</a>
-
-- `github blog` <a href="https://elese0821.github.io/"> 블로그 </a>
-
-#### 프로그래밍 언어 및 마크업 언어<br />
-<img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-
-#### 프론트엔드 프레임워크 및 라이브러리
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-#### 백엔드 및 서버 사이드 기술
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-#### 데이터베이스
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+#### FE
+`REACT` , `NEXT` 
+#### BE
+`CI3`
+#### DB
+`MYSQL`
 
 #### 배포 및 버전 관리
-<img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+`도커` , `웹팩` 
 
 #### 개발 도구 및 디자인
-<img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-### 
 
 
+
+
+
+
+
+
+
+
+
+
+
+### 예전 포폴
 - `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
 - `REACT` 유튜브 사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
@@ -46,7 +47,6 @@
 
 
 ## CONTACT
-<a href="mailto:elese0821@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:elese0821j@gmail.com">이메일 보내기
 </a>
 
