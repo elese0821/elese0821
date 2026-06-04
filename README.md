@@ -1,32 +1,9 @@
-# 소개
+# 안녕하십니까 개발자로 사회의 일원이 되고싶어요 
 
-- <a href="https://velog.io/@iwonyoung0821/posts"> 블로그
-
-#### FE
-`REACT` , `NEXT` 
-#### BE
-`CI3`
-#### DB
-`MYSQL`
-
-#### 배포 및 버전 관리
-`도커` , `웹팩` 
-
-#### 개발 도구 및 디자인
+- <a href="https://velog.io/@iwonyoung0821/posts"> 메모장용 블로그
 
 
-
-
-
-
-
-
-
-
-
-
-
-### 예전 포폴
+### 예전 작업물 링크
 - `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
 - `REACT` 유튜브 사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
@@ -46,7 +23,7 @@
 <a href="https://github.com/elese0821/php-project" target="_blank">GITHUB SITE</a>
 
 
-## CONTACT
-<a href="mailto:elese0821j@gmail.com">이메일 보내기
+## 연락하세요
+<a href="mailto:elese0821j@gmail.com">이메일 연락
 </a>
 
