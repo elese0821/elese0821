@@ -2,8 +2,8 @@
 - <a href="https://velog.io/@iwonyoung0821/posts"> -
 
 
-### 예전 작업물 링크
-- `PORTFOLIO` <a href="https://github.com/elese0821/wonyoung-portfolio">바로가기</a>
+### 예전 작업물
+
 - `REACT` 유튜브 사이트
 <a href="https://github.com/elese0821/youtube-project" target="_blank">GITHUB SITE</a>
 - `VUE.js` 영화정보 사이트
