@@ -1,6 +1,5 @@
-# 안녕하십니까 개발자로 사회의 일원이 되고싶어요 
-
-- <a href="https://velog.io/@iwonyoung0821/posts"> 메모장용 블로그
+안녕하세요
+- <a href="https://velog.io/@iwonyoung0821/posts"> -
 
 
 ### 예전 작업물 링크
