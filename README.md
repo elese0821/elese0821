@@ -1,5 +1,5 @@
 안녕하세요
-- <a href="https://velog.io/@iwonyoung0821/posts"> -
+- <a href="https://velog.io/@iwonyoung0821/posts"> blog
 
 
 ### 예전 작업물
